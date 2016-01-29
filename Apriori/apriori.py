@@ -114,4 +114,4 @@ if __name__ == '__main__':
 	# print L[1]
 	rules = generateRules(L, suppData, minConf=0.7)
 
-	print rules
+	
